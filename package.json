@@ -1,0 +1,26 @@
+{
+  "name": "mysqldatabase",
+  "version": "1.0.0",
+  "description": "twotables",
+  "main": "twoTables.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soniabradley/MySqlDataBase.git"
+  },
+  "keywords": [
+  ],
+  "author": "soniabradley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soniabradley/MySqlDataBase/issues"
+  },
+  "homepage": "https://github.com/soniabradley/MySqlDataBase#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {}
+}
